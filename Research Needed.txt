@@ -8,4 +8,4 @@ How to make urls completely self-contained on host computer (will probably still
 
 Hosting other protocols/services such as mail servers and ftp on host computer
 
-Eventually design a type of PirateBox for our purposes. Perhaps attach longer ranged antennae on them for further signal reach. Could be useful to ministers for transmitting messages to congregations. 
+Eventually design a type of PirateBox for our purposes. Perhaps attach longer ranged antennae on them for further signal reach. Could be useful to ministers for transmitting messages to congregations.

@@ -2,3 +2,12 @@ Ministry applications
 
 Virtual churches. Could allow pastors for example to record and broadcast sermons to their church members without having to actually meet in person. Will be less dangerous for those involved than actually meeting up in a central location and risk being busted and persecuted as an entire group.  
 
+Prayer network: this could be done using automated e-mails like many churches do today. Or, if we really wanted to get creative, we could make a "social" ministry network of some kind by forking and rebranding one of the projects already being developed.
+https://joindiaspora.com/
+
+
+Requests for outside aid: A church might need Bibles, hymnal, equipping resources, or other types of materials printed or purchased. A Craigslist-like functionality would be nice so that resources (chairs, blankets, food, job openings, etc.) could be shared/distributed between churches. Requests for a certain item would be made, an another church/individual could meet the request. Bitcoin could be used to allow people to donate/tithe towards expenses that occur for churches in a persecuted country. It would be an interesting challenge to implement some kind of virtual currency that cannot be tracked back to it's source so that the local body of believers could donate without being discovered. Maybe look into DarkWallet. 
+https://darkwallet.is
+https://github.com/darkwallet/darkwallet
+https://wiki.unsystem.net/en/index.php/Main_Page
+
