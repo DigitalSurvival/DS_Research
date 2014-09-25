@@ -1,11 +1,11 @@
-Things we need to research
+THINGS TO RESEARCH
 
 Ways to handle our private network anonymously over long distances. Some users may be isolated by distance from the rest of the group and out of signal range. 
 
-Anonymous Mesh Network topology (outlined in file named "Mesh Network Plan")
+Anonymous Mesh Network topology (outlined in file named "Mesh Network Plan").
 
-How to make urls completely self-contained on host computer (will probably still require purchase of DNS hosting for surface web) for mesh network. 
+How to make URLs completely self-contained on host computer (will probably still require purchase of DNS hosting for surface web) for mesh network. 
 
-Hosting other protocols/services such as mail servers and ftp on host computer
+Hosting other protocols/services such as mail servers and ftp on a host computer.
 
 Eventually design a type of PirateBox for our purposes. Perhaps attach longer ranged antennae on them for further signal reach. Could be useful to ministers for transmitting messages to congregations.

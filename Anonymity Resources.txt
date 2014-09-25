@@ -1,14 +1,14 @@
-Anonymity resources and ideas
+ANONYMITY RESOURCES AND IDEAS
 
 Could be good to figure out a way to get our product into the hands of people in countries with restricted and punishable internet access such as Saudi Arabia, North Korea, etc. Anonymous operation as well as location obscuring would be hugely important in places like that
 
-Anonymous Linux Distros
+ANONYMOUS LINUX DISTROS
 
 Whonix - Linux distro w/Tor-able features allowing total anonymity. Untraceable, allegedly. 
 “DNS leaks are impossible, and not even malware with root privileges can find out the user's real IP.”
 http://sourceforge.net/projects/whonix/ 
 
-TAILS - Tails is a live operating system, that you can start on almost any computer from a DVD, USB stick, or SD card. It aims at preserving your privacy and anonymity, and helps you to:
+T.A.I.L.S. - Tails is a live operating system, that you can start on almost any computer from a DVD, USB stick, or SD card. It aims at preserving your privacy and anonymity, and helps you to:
 use the Internet anonymously and circumvent censorship;
 all connections to the Internet are forced to go through the Tor network;
 leave no trace on the computer you are using unless you ask it explicitly;
@@ -17,10 +17,13 @@ https://tails.boum.org/
 
 (From forum post): "Tails and Whonix are both targeted at sophisticated users, but their goals are different. While both strive for anonymity, Tails focuses on amnesia, although there is an option for saving stuff when run from a USB flash drive. Whonix, on the other hand, focuses more on security, by isolating Tor and apps in separate VMs."
 
+MESH NETWORKING TOOLS
 
-
-PirateBox - 
-http://piratebox.cc/start
+CJDNS - Encrypted networking for regular people.
+Cjdns implements an encrypted IPv6 network using public key cryptography for address allocation and a distributed hash table for routing. This provides near zero-configuration networking without many of the security and robustness issues that regular IPv4 and IPv6 networks have. 
+http://projectmeshnet.org/
+https://wiki.projectmeshnet.org/Install_on_Gentoo
+http://cjdns.info/
 
 WASTE again mesh network 
 http://wasteagain.sourceforge.net
@@ -28,5 +31,13 @@ http://wasteagain.sourceforge.net
 B.A.T.M.A.N protocol for ad-hoc mesh networks
 http://www.open-mesh.org/projects/open-mesh/wiki
 
+HARDWARE PLATFORM IDEAS
+
+PirateBox - a DIY anonymous offline file-sharing and communications system built with free software and inexpensive off-the-shelf hardware.
+http://piratebox.cc/start
+
+WEBSITES
+
 Guerrilla Mail
 Temporary, disposable email addresses.
+
