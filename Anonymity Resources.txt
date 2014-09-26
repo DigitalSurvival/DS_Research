@@ -33,6 +33,9 @@ http://www.open-mesh.org/projects/open-mesh/wiki
 
 HARDWARE PLATFORM IDEAS
 
+OUTERNET - A free, satellite-based network. Allegedly has decent (at least decent enough to send/receive simple data) throughput and is safe and anonymous. Interesting concept.
+https://www.outernet.is
+
 PirateBox - a DIY anonymous offline file-sharing and communications system built with free software and inexpensive off-the-shelf hardware.
 http://piratebox.cc/start
 
