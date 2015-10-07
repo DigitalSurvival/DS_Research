@@ -1,0 +1,11 @@
+Research Linux Intrusion Detection Service.
+
+Project Name: The Dawn Wall
+
+LIDS Links:
+http://tldp.org/HOWTO/Security-Quickstart-HOWTO/intrusion.html
+http://sourceforge.net/projects/lids/
+http://archive09.linux.com/feature/113919
+
+Tripwire:
+http://how-to.linuxcareer.com/intrusion-detection-systems-using-tripwire-on-linux

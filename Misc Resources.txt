@@ -1,8 +1,0 @@
-MISC RESOURCES
-
-Page Kite - localhost tunneler. Allows users to access localhost pages publicly through custom urls. Very useful for remote testing of webpages. I think it's subscription based unfortunately, but it's still relatively cheap. 
-https://pagekite.net
-
-CUSTOM URL FOR BRAD'S XAMPP SERVER
-https://magchese1.pagekite.me/
-

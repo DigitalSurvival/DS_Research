@@ -1,0 +1,3 @@
+goTenna - RF text messaging - no reliance on cell networks for texting within certain ranges. My coworker Jim told me about this. He’s actually super into all of this kind of doomsday stuff, could be a good person to talk to about privacy ideas and all that goodness.
+
+http://gotenna.com/pages/how-it-works

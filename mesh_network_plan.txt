@@ -1,0 +1,11 @@
+First of all, I need to learn more about mesh networking so I don't come across like a blithering idiot in my ideas. 
+
+Second, make a plan for a secure mesh network setup. Here's my initial idea for that 
+
+Set up a centralized server in home with anonymizing functions (take idea from Whonix)
+
+Set up mesh network in the dark allowing users to communicate with each other and broadcast information within their mesh. 
+
+Send all incoming and outgoing internet traffic from mesh users through central server, sort of as a proxy. I'm not sure if there's a better word for this. Basically, this should anonymize all connections to the surface web. Will probably make it super slow, but at least it will be safe for the users. Maybe figure out a way to ensure decent connection speed, but this may not be possible. 
+
+
