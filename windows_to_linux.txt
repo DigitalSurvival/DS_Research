@@ -1,0 +1,5 @@
+Windows					Linux
+C:\pagefile.sys			swap partition
+C:\hiberfil.sys			
+
+C:\Windows\SoftwareDistribution\DataStore.edb		Package management database (varies on distribution)
